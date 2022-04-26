@@ -7,8 +7,8 @@
                 "paths": ["*"]
             },
 	    {
-                "appID": "GMNDF9KPZ3.95526.mobi",
-                "paths": ["*"]
+                "appID": "BQH87NB5U3.95526.mobi",
+                "paths": ["/cgi-bin/newreadtemplate","/*"]
             }
         ]
     }
