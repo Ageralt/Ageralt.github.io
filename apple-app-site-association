@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "XT49V48SU4.mobi.95526.bjbank",
-                "paths": ["*"]
+                "paths": ["/cdn/mbank/*"]
             },
 	    {
                 "appID": "BQH87NB5U3.95526.mobi",
-                "paths": ["*"]
+                "paths": ["/cdn/mbank/*"]
             }
         ]
     }
